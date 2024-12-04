@@ -9,7 +9,7 @@ I’m a seasoned full-stack developer with **4+ years of experience** in the tec
 - **Mobile**: Flutter 📱  
 
 ## 🛠️ Projects Delivered Across Diverse Domains  
-- 🌍 **Land Administration**: Streamlined systems for better property management.  
+- 🌍 **Land Administration**: Streamlined systems for land ownership management.  
 - 🏋️‍♂️ **Gym Management**: Designed tools to keep fitness goals on track.  
 - 💬 **Social Media Apps**: Built engaging platforms for connectivity.  
 - 🎫 **Event Ticketing**: Simplified event planning with seamless solutions.  
