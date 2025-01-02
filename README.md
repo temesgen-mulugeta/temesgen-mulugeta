@@ -1,4 +1,4 @@
-#Full-Stack Develope 
+# Full-Stack Developer
 
 I’m a  full-stack developer with **4+ years of experience** in the tech industry, and I enjoy programming 
 
